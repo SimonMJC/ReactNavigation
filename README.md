@@ -16,12 +16,12 @@ react-navigation과 Router로 구현한 간단한 module
 
 
 
-Scripter: Visual Studio Code
-Language: JavaScript
-Framework/Library: ReactNative 0.63.2, ReactNative-cli 2.0.1
-Desktop: Macbook pro 2019 15ch cto
-OS: macOS Catalina 10.15.6
-Launch Device: ios Simulation for Xcode
+1. Scripter: Visual Studio Code
+2. Language: JavaScript
+3. Framework/Library: ReactNative 0.63.2, ReactNative-cli 2.0.1
+4. Desktop: Macbook pro 2019 15ch cto
+5. OS: macOS Catalina 10.15.6
+6. Launch Device: ios Simulation for Xcode
 
 
 
