@@ -22,11 +22,11 @@ react-navigation과 Router로 구현한 간단한 module
 5. OS: macOS Catalina 10.15.6
 6. Launch Device: iPhone11(iOS: 13.4) Simulation for Xcode
 
-
 Reference:
 <https://bangc.tistory.com/13?category=710884>
 
 
+_____________________________________________________
 write by simon
 
 2020년 09월 2일 ~ 2020년 09월 3일 
