@@ -4,8 +4,7 @@ React Native Navigation
 react-navigation과 Router로 구현한 간단한 module
 --------------------------------------------
 
-2020년 09월 2일 ~ 2020년 09월 3일 
-####스크린 전환 기능 사용 위해 react-navigation 사용
+스크린 전환 구현 위해 react-navigation 사용
 
 
 #### $ npm install or yarn add react-navigation
@@ -22,6 +21,15 @@ react-navigation과 Router로 구현한 간단한 module
 4. Desktop: Macbook pro 2019 15ch cto
 5. OS: macOS Catalina 10.15.6
 6. Launch Device: ios Simulation for Xcode
+
+
+Reference
+<https://bangc.tistory.com/13?category=710884>
+
+
+write by simon
+
+2020년 09월 2일 ~ 2020년 09월 3일 
 
 
 
