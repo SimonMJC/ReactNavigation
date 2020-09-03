@@ -20,10 +20,10 @@ react-navigation과 Router로 구현한 간단한 module
 3. Framework/Library: ReactNative 0.63.2, ReactNative-cli 2.0.1
 4. Desktop: Macbook pro 2019 15ch cto
 5. OS: macOS Catalina 10.15.6
-6. Launch Device: ios Simulation for Xcode
+6. Launch Device: iPhone11(iOS: 13.4) Simulation for Xcode
 
 
-Reference
+Reference:
 <https://bangc.tistory.com/13?category=710884>
 
 
