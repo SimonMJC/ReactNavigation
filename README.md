@@ -6,10 +6,10 @@ react-navigation과 Router로 구현한 간단한 module
 
 스크린 전환 구현 위해 react-navigation 사용
 
-
-#### $ npm install or yarn add react-navigation
-#### $ npm install or yarn add react-navigation-stack
-
+```
+$ npm install or yarn add react-navigation
+$ npm install or yarn add react-navigation-stack
+```
 ##### 네비게이션 구현 중 대다수의 오류는 라이브러리 부재에 의해 일어난 오류가 많았음
 
 
